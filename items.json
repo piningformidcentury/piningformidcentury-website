@@ -1,0 +1,10 @@
+{
+  "items": [
+    {"id":"orange-lamp","name":"Vintage Orange Table Lamp","category":"Lighting","image":"/assets/lamp.jpg","photos":[],"description":"Statement vintage table lamp with a glossy orange base and a textured fabric shade.","dimensions":"Ask for dimensions","price":"","status":"Available"},
+    {"id":"chrome-table","name":"Chrome & Smoked Glass Table","category":"Tables","image":"/assets/table.jpg","photos":[],"description":"Round smoked-glass table with a sculptural chrome base.","dimensions":"Ask for dimensions","price":"","status":"Available"},
+    {"id":"leather-lounge","name":"Wood & Black Leather Lounge Chair","category":"Seating","image":"/assets/lounge.jpg","photos":[],"description":"Vintage wooden lounge chair with black leather cushions.","dimensions":"Ask for dimensions","price":"","status":"Available"},
+    {"id":"vintage-sofa","name":"Mid-Century Wooden Sofa","category":"Seating","image":"/assets/sofa.jpg","photos":[],"description":"Three-seat vintage sofa with a warm wood frame and patterned upholstery.","dimensions":"Ask for dimensions","price":"","status":"Available"},
+    {"id":"cane-armchair","name":"Cane-Sided Vintage Armchair","category":"Seating","image":"/assets/cane-chair.jpg","photos":[],"description":"Warm wood armchair with woven cane sides and textured upholstery.","dimensions":"Ask for dimensions","price":"","status":"Available"},
+    {"id":"red-floral-chair","name":"Red Floral Lounge Chair","category":"Seating","image":"/assets/red-chair.jpg","photos":[],"description":"Playful retro lounge chair with red floral upholstery and a white sculptural base.","dimensions":"Ask for dimensions","price":"","status":"Available"}
+  ]
+}
